@@ -1,5 +1,3 @@
-// screens/song_details_screen.dart
-
 import 'package:audio_video_progress_bar/audio_video_progress_bar.dart';
 import 'package:flores_favsongs_assignment5/components/media_metadata.dart';
 import 'package:flores_favsongs_assignment5/models/position_data.dart';
